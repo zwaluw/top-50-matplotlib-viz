@@ -1,0 +1,43 @@
+,Stage,Gender,Users
+0,Stage 01: Browsers,Male,-14927618.7065238
+1,Stage 02: Unbounced Users,Male,-12862663.40577
+2,Stage 03: Email Signups,Male,-11361896.414205
+3,Stage 04: Email Confirmed,Male,-9411708.10306551
+4,Stage 05: Campaign-Email Opens,Male,-8074316.61565254
+5,Stage 06: Campaign-Email Clickthroughs,Male,-6958512.21751809
+6,Stage 07: Buy Button Page,Male,-6045363.48273234
+7,Stage 08: Buy Button Clickers,Male,-5029954.21439611
+8,Stage 09: Cart Confirmation Page,Male,-4008034.11281016
+9,Stage 10: Address Verification Page,Male,-3172555.22488748
+10,Stage 11: Submit Order Page,Male,-2484808.19938415
+11,Stage 12: Payment,Male,-1903727.48070039
+12,Stage 13: Payment Successful,Male,-1490277.0164728002
+13,Stage 14: 1st Successful Purchase,Male,-1152003.96468187
+14,Stage 15: 2nd Purchase,Male,-770748.058053054
+15,Stage 16: 3rd Purchase,Male,-434430.028171115
+16,Stage 17: 4th Purchase,Male,-195031.889918096
+17,Stage 18: 5th Purchase,Male,-58570.2215626985
+18,Stage 18: 5th Purchase,Male,-12215.4458488971
+19,Stage 18: 5th Purchase,Male,888.4953521788119
+20,Stage 18: 5th Purchase,Male,-443.619050107896
+21,Stage 01: Browsers,Female,14226434.2934762
+22,Stage 02: Unbounced Users,Female,12276042.59423
+23,Stage 03: Email Signups,Female,10850385.585795
+24,Stage 04: Email Confirmed,Female,8999931.89693449
+25,Stage 05: Campaign-Email Opens,Female,7732693.38434746
+26,Stage 06: Campaign-Email Clickthroughs,Female,6666393.78248191
+27,Stage 07: Buy Button Page,Female,5743259.51726766
+28,Stage 08: Buy Button Clickers,Female,4723254.78560389
+29,Stage 09: Cart Confirmation Page,Female,3680878.88718984
+30,Stage 10: Address Verification Page,Female,3002640.77511252
+31,Stage 11: Submit Order Page,Female,2467804.80061585
+32,Stage 12: Payment,Female,1977277.51929961
+33,Stage 13: Payment Successful,Female,1593649.9835271998
+34,Stage 14: 1st Successful Purchase,Female,1229651.03531813
+35,Stage 15: 2nd Purchase,Female,828496.941946946
+36,Stage 16: 3rd Purchase,Female,486621.971828885
+37,Stage 17: 4th Purchase,Female,227106.110081904
+38,Stage 18: 5th Purchase,Female,73466.7784373015
+39,Stage 18: 5th Purchase,Female,12654.5541511029
+40,Stage 18: 5th Purchase,Female,3425.49535217881
+41,Stage 18: 5th Purchase,Female,-306.619050107896
